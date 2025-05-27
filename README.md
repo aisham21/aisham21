@@ -8,20 +8,7 @@
 - <b>SQL Project</b>
   - [Big Query Exploration using sample Dataset](https://github.com/aisham21/SQL-Project) 
 - <b>Capstone Project</b>
-  - [BellaBeat](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [BellaBeat] 
 
-<h2>📺 YouTube Videos</h2>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: 
-[youtube]: 
-[instagram]: 
-[linkedin]:  
-
-
+<h2>🌙 Connect With Me </h2>
+[LinkedIn](https://linkedin.com/in/aishamohamud6) 
