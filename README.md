@@ -8,7 +8,7 @@
 - <b>SQL Project</b>
   - [Big Query Exploration using sample Dataset](https://github.com/aisham21/SQL-Project) 
 - <b>Capstone Project</b>
-  - [BellaBeat] 
+  - [BellaBeat] ~ <i>Coming Soon</i>
 
 <h2>🌙 Connect With Me </h2>
 
