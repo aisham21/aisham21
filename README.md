@@ -6,7 +6,7 @@
 - <b>Excel Project - Accenture Forage</b>
   - [Applied data analytics & visualization skills to advise a social media client on their content creation strategy as a Data Analyst at Accenture (Job Simulation)](https://github.com/aisham21/Excel-Project)
 - <b>SQL Project</b>
-  - [Big Query Exploration using sample Dataset](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Big Query Exploration using sample Dataset](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Capstone Project</b>
   - [BellaBeat](https://github.com/joshmadakor1/Sentinel-Lab)
 
