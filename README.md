@@ -11,4 +11,5 @@
   - [BellaBeat] 
 
 <h2>🌙 Connect With Me </h2>
-[LinkedIn](https://linkedin.com/in/aishamohamud6) 
+
+[LinkedIn](https://www.linkedin.com/in/aishamohamud6/)
