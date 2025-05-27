@@ -4,7 +4,7 @@
 <h2>🌙 Data Analysis Projects:</h2>
 
 - <b>Excel Project - Accenture Forage</b>
-  - [Practicing Data Cleaning and Analysis Skills in work for client Social Buzz](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Applied data analytics & visualization skills to advise a social media client on their content creation strategy as a Data Analyst at Accenture (Job Simulation)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL Project</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Capstone Project</b>
